@@ -1,6 +1,6 @@
 # CLI-Fandom-Quiz
 
-his CLI quiz game was made as the assignment for Neog Camp by Tanay Pratap.
+CLI quiz game was made as the assignment for Neog Camp by Tanay Pratap.
 
 We learnt all the basics during the livestream and was asked to make any quiz game of our choice. So I made this.
 
