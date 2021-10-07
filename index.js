@@ -86,10 +86,10 @@ var questionOne = {
   
   
   var highScore = [{
-    name: "Priyanshu",
+    name: "naveen",
     score: 5},
     {
-      name: "Sam",
+      name: "nirmal",
       score: 3
     },
   ]
